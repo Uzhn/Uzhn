@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Python Backend Developer
+🐍 I am a Python Backend Developer
 - :seedling: I create reliable and high-performance web applications.
 
 - :zap: In my free time, I read books about of programming.
